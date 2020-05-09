@@ -1,2 +1,2 @@
 # My-portfolio
-A small portfolio about me with a basic information about myself
+A small responsive portfolio having basic information about me.
